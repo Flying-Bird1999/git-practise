@@ -4,6 +4,7 @@ import App from './App';
 import './index.css';
 
 console.log('hoxfix分支开发...');
+console.log('feature分支开发');
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
